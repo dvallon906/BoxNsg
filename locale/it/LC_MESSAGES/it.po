@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+
+msgid "MENU"
+msgstr "MENU"
+
+msgid "Saisir un codebar"
+msgstr "Inserisci un codice a barre"
+
+msgid "Etat de la connexion"
+msgstr "Stato della connessione"
+
+msgid "Vider la table locale users"
+msgstr "Svuotare la tabella locale degli utenti"
+
+msgid "Changer de langue"
+msgstr "Cambia lingua"
+
+msgid "Quitter"
+msgstr "Uscire"
+
+msgid "Entrez votre choix : "
+msgstr "Inserisci la tua scelta: "
+
+msgid "Option pour saisir un codebar sélectionnée."
+msgstr "Opzione per inserire un codice a barre selezionata."
+
+msgid "Option pour vérifier l'état de la connexion sélectionnée."
+msgstr "Opzione per verificare lo stato della connessione selezionata."
+
+msgid "Option pour vider la table locale users sélectionnée."
+msgstr "Opzione per svuotare la tabella locale degli utenti selezionata."
+
+msgid "Quitter l'application..."
+msgstr "Uscire dall'applicazione..."
+
+msgid "Choix non valide. Veuillez réessayer."
+msgstr "Scelta non valida. Per favore riprova."
+
+msgid "Erreur : les fichiers de traduction pour '%s' ne sont pas trouvés."
+msgstr "Errore: i file di traduzione per '%s' non sono stati trovati."
+
+msgid "Choisissez une langue (fr pour français, it pour italien) : "
+msgstr "Scegli una lingua (fr per francese, it per italiano) : "
+
+msgid "Langue non supportée. Utilisation de la langue par défaut (français)."
+msgstr "Lingua non supportata. Utilizzo della lingua predefinita (francese)."
