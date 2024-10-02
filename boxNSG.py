@@ -16,7 +16,6 @@ stop_thread = False #Permet d'arreter de Thread avant de sorit du programme
 oStatusLine = Class_StatusLine.StatusLine(modeDegrade=False)
 oParameters = Class_Parameters.Parameters()
 
-
 # Temporataire pour test WebSocket ################################################################
 # En cas de besoin décommenter la ligne 251
 def hello():
