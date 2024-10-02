@@ -12,7 +12,7 @@ import Class_StatusLine
 import dbTraitements
 from UIMenu import *
 
-stop_thread = False #Permet d'arreter de Thread avant de sorit du programme
+stop_thread = False  # Permet d'arreter de Thread avant de sortir du programme
 oStatusLine = Class_StatusLine.StatusLine(modeDegrade=False)
 oParameters = Class_Parameters.Parameters()
 
