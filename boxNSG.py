@@ -1,21 +1,16 @@
 
-import time
-import threading
-import os
-import dbTraitements
-import requests
-import uuid
 import sys
-import Class_StatusLine
+import threading
+import time
+import uuid
+
+import requests
+from websockets.asyncio.client import connect  # Importation temporaire pour test WebSocket
+
 import Class_Parameters
+import Class_StatusLine
+import dbTraitements
 from UIMenu import *
-
-
-
-from websockets.asyncio.client import connect       # Importation temporaire pour test WebSocket
-
-
-
 
 stop_thread = False #Permet d'arreter de Thread avant de sorit du programme
 oStatusLine = Class_StatusLine.StatusLine(modeDegrade=False)
