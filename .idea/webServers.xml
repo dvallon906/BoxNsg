@@ -3,9 +3,9 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="467885a6-6817-4427-9e3d-d31eac86c52b" name="raspdva">
-        <fileTransfer rootFolder="/bin/pyCharm" accessType="SFTP" host="192.168.1.3" port="22" sshConfigId="8babb664-2b82-48a5-908c-9f8027307496" sshConfig="dva@192.168.1.3:22 password">
+        <fileTransfer rootFolder="/home/dva/pyCharm" accessType="SFTP" host="192.168.1.3" port="22" sshConfigId="8babb664-2b82-48a5-908c-9f8027307496" sshConfig="dva@192.168.1.3:22 password">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" isUseSudo="true" />
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" isUseRsync="true" isUseSudo="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
